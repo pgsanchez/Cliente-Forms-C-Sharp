@@ -1,0 +1,8 @@
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\bin\Debug\ClienteForms.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\bin\Debug\ClienteForms.pdb
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\obj\x86\Debug\ClienteForms.Form1.resources
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\obj\x86\Debug\ClienteForms.Properties.Resources.resources
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\obj\x86\Debug\ClienteForms.csproj.GenerateResource.Cache
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\obj\x86\Debug\ClienteForms.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteForms\ClienteForms\obj\x86\Debug\ClienteForms.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\ClienteForms\ClienteForms\obj\x86\Debug\ClienteForms.csprojResolveAssemblyReference.cache
